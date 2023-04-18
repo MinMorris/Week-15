@@ -1,0 +1,102 @@
+body {
+  background-color: #ffbcfc;
+  color: #6c646d;
+  font-family:'Lucida Sans';
+}
+
+.container {
+  margin-bottom: 300px;
+}
+
+.header {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 100px;
+  padding: 20px;
+  background-color: #ffffff;
+  color: #000000;
+  font-family:'Lucida Sans';
+  font-size: larger; 
+}
+
+.footer {
+  text-align: center;
+  margin-top: auto;
+  background-color: #ffffff;
+  padding: 10px
+}
+
+form {
+  padding: 20px;
+  text-align: center;
+  color:#8a7f8d;
+  background-color: #ffffff;
+  border-radius: 10px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+.label {
+  font-weight: 500;
+}
+
+.button {
+  background-color: #b086c0;
+  border: transparent;
+}
+
+.button:hover {
+  background-color: #6c646d;
+  border: transparent;
+}
+
+#list-length {
+  color:#000000;
+  text-align: center;
+}
+
+.book-card {
+  background-color: #000000;
+  border-radius: 20px;
+  text-align: center;
+}
+
+#cover {
+  margin: auto;
+  margin-top: 8px;
+  width: 50%;
+  border-radius: 20px;
+
+}
+
+.book-info {
+  margin-top: 20px;
+}
+
+p {
+  margin-top: 7px;
+}
+
+select {
+  border-radius: 8px;
+  padding: 8px;
+}
+
+#delete-btn {
+  background-color: #F854AB;
+  border: transparent;
+}
+
+#delete-btn:hover {
+  background-color: #6c646d;
+}
+
+a {
+  color: #AB54F8;
+}
+
+a:hover {
+  color: #6c646d;
+}
